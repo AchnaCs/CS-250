@@ -1,7 +1,16 @@
-# Achna Hettiarachchi CS 250 Assignment 8-2 Journal
-
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? 
 
 During the software development process, I’ll interpret user needs and implement them into a program. First, I’ll collect information about the user's needs, requirements, and expectations via interviews, surveys, focus groups, etc. Then I’ll create a plan for how the program will meet the user's needs. Next, I will write the code necessary to realize the program's features and functions. Once the code is written, I’ll test the program to ensure it meets the user's requirements and functions as intended. Even after the program is released, I’ll continue to maintain and improve it over time. So, I will have to work closely with stakeholders, including end-users, project managers, and other members of the agile team to ensure that the program meets the user's needs and functions as intended.
 
 Creating user stories is a common practice used in software development. It helps developers to understand what the user needs to accomplish and prioritize features/functionality based on their significance to the user. It also provides a common language for the development team and stakeholders to communicate about the program's features/functionality. Finally, user stories can be used as the basis for testing the program. 
+
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work? 
+
+The waterfall model is a linear method that includes a set of sequential steps (requirements gathering, design, implementation, testing, and maintenance). It is suitable for projects where the needs are well-defined, and the team has a rich understanding of the project's span.  Agile is a flexible and iterative method that highlights collaboration, fast delivery, and continuous enhancement. It includes making a backlog of tasks, prioritizing tasks based on their significance, and producing working software in short iterations. The agile method is practical for projects where the goals may change over time, or the team is uncertain of the project's span. So, I plan to choose the method depending on its nature. 
+
+The first agile process I hope to incorporate is scrum which involves creating a backlog of tasks, sprint planning, daily scrum meetings, sprint reviews, and retrospectives. I will also utilize Kanban which is a visual tool that helps teams manage work in progress. Pair programming is another technique that I would like to incorporate into my future development work. It improves code quality, knowledge sharing, and collaboration.
+
+# What does it mean to be a good team member in software development? 
+
+A good team member should have a good understanding of programming languages, software development methodologies, and relevant tools and technologies. This will ensure that the member can write efficient, maintainable code, and perform software testing and quality assurance. He/she must be able to communicate successfully with other team members, stakeholders, and customers. Especially, developers have to communicate technical material to non-technical individuals in a way that it makes sense. The ability to work collaboratively with others and be a good team player is essential. Resolving conflicts, compromising when necessary, providing constructive feedback, and being open to receiving feedback are other qualities of a good team member. Problem-solving skills and time-management skills are helpful too.
+
